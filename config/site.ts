@@ -49,7 +49,7 @@ export const siteConfig = {
 
   // Company Info
   company: {
-    name: "HINAI Tech",
+    name: "Jadwal Pintarku",
     tagline: "Membuat aplikasi yang mengubah cara orang bekerja",
     email: "cs.hinaitech@gmail.com",
   },
