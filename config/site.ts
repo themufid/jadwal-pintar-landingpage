@@ -49,7 +49,7 @@ export const siteConfig = {
 
   // Company Info
   company: {
-    name: "HIN Technology / Muana Media Technology",
+    name: "HINAI Tech",
     tagline: "Membuat aplikasi yang mengubah cara orang bekerja",
     email: "cs.hinaitech@gmail.com",
   },
